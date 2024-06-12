@@ -60,27 +60,27 @@ router.get('/', async (req, res) => {
 	
 				   let FLASH_MD_TEXT = `
 *𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀*
-*AKVID-MD*
-*𝙊𝙒𝙉𝙀𝙍 AKVID*
+*WHIZBOT*
+*𝙊𝙒𝙉𝙀𝙍 WHIZ*
 ____________________________________
 ╔════◇
-║『 AKVID-MD 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
+║『 WHIZBOT 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
 ║ YOUR SESSION IS READY. COPY IT  
 ║ AND HOST IT ON YOUR WEB.
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://Wa.me/+2348150924887_
+║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://Wa.me/+1(876)335-1213_
 
-║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/Kingdavid3333_
+║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/WHIZBOT1/WHIZBOT_
 
-║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://whatsapp.com/channel/0029VagFXfAATRSrUq8ROT1e_
+║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/D4pphf7W3NbCDghqG0SJyz_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VagFXfAATRSrUq8ROT1e_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VacWsSl3LdQOmWZrBj0l_
 
-║ 🤖🤖🤖
+║ 🚀🚀🚀
 ╚════════════════════╝ 
- *© AKVID MD*
+ *© WHIZBOT*
 ___________________________________
 
 _Don't Forget To Give Star⭐ To My Repo_`
